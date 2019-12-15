@@ -18,8 +18,7 @@ public class Manager extends Employee {
     }
 
     @Override
-    String getTask() {
-        return String.format("He/She has brought %d new clients", nbClient);
+ String getTask(){return String.format("He/She has brought %d new clients",nbClient);
     }
 
 
