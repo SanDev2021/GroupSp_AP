@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ProjectAndroid</string>
+    <string name="registration_form">Registration Form</string>
+    
+    
+    <string-array name="EmployeeType">
+        <item>Choose a type</item>
+        <item>Manager</item>
+        <item>Programmer</item>
+        <item>Tester</item>
+    </string-array>
+    <string-array name="VehicleColor">
+        <item>Choose a color</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Pink</item>
+        <item>Brown</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Beige</item>
+        <item>Ivory</item>
+        <item>Violet</item>
+        <item>Peach</item>
+        <item>Ochre</item>
+        <item>Plum</item>
+    </string-array>
+</resources>
