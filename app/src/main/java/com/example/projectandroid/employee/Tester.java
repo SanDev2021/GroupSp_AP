@@ -12,12 +12,7 @@ public class Tester extends Employee {
     }
 
     @Override
-    double annualIncome() {
-        return getSalary() + (nbBugs * GAIN_FACTOR_ERROR);
-    }
-
-    @Override
-    String getTask() {
-        return String.format("He/She has corrected %d bugs", nbBugs);
-    }
+double annualIncome(){return getSalary()+(nbBugs* GAIN_FACTOR_ERROR);}
+@Override
+String getTask(){ return  String.format("He/She has completed %d bugs", nbBugs);}
 }
